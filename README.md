@@ -1,2 +1,8 @@
-# mcls
-Macca Computer Login System. Source code for the MCLS page. Using HTML, CSS, PHP, SQL.
+<p align="center">
+  <img src="mc.gif" />
+  
+# <i>Macca Computer Login System</i>
+</p>
+
+## Database setting
+
